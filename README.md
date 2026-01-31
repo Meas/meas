@@ -1,5 +1,4 @@
  ---
- 📋 GitHub Profile Markdown
 
  # 👋 Full-Stack Developer
 
